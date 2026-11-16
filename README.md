@@ -32,7 +32,7 @@ node agent/bin/reflex.mjs link status
 - `link/`: pairing, approval, Mac connection, durable Inbox and delivery.
 - `relay/`: authenticated forwarding of live encrypted device connections.
 
-No agent writing API, shared Spaces/invites, web viewer, author kit, protocol package, conformance suite, encrypted cloud log or cloud agent session remains. The full earlier product is preserved on GitLab branch `archive/canvas-v0`.
+No agent writing API, shared Spaces/invites, web viewer, author kit, protocol package, conformance suite, encrypted cloud log or cloud agent session remains. The full earlier product is preserved on branch `archive/canvas-v0`.
 
 ## Checks
 

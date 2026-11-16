@@ -118,7 +118,7 @@ The key words are defined in [GLOSSARY.md](../GLOSSARY.md):
 - **SF Symbols and the system's look,** which is Apple-native and replaces the hand-drawn icons.
 - **The Link on the Mac,** connecting to Claude Code and Codex. Both are the harnesses the person uses.
 - **TestFlight** to put builds on the person's iPad.
-- **GitLab** (gitlab.com/johansardar/reflex) for the code.
+- **GitHub** (github.com/jujdontbudge/reflex) for the code.
 
 ## 7. Drafted
 
@@ -129,7 +129,7 @@ Drafted: this shows intent. The architecture decides.
 
 ## 8. Not doing
 
-- **Agents writing on the board.** It made the first version slow, bland and uncontrollable. The earlier version is kept on the GitLab branch `archive/canvas-v0`.
+- **Agents writing on the board.** It made the first version slow, bland and uncontrollable. The earlier version is kept on the branch `archive/canvas-v0`.
 - **Neater handwriting (Auto-Refine).** Apple's Smart Script works only in Apple's own apps. Neither the released SDK nor the iPadOS 27 beta lets other apps turn it on, and building our own would eat the whole effort.
 - **Handwriting search, for now.** It waits for the iPadOS 27 API to be shippable. Search covers titles and typed text until then.
 - **Sharing boards and iCloud sync.** Boards stay on the iPad. Both would bring back the sync machinery that was just removed.
